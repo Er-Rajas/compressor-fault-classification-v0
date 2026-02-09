@@ -1,0 +1,1 @@
+mlflow server --backend-store-uri sqlite:///D:/Project/Predictive_maintaince/Data/mlflow.db --default-artifact-root file:///D:/Project/Predictive_maintaince/mlartifacts --host 127.0.0.1 --port 5000
